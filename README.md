@@ -1,4 +1,4 @@
-# paip2020
+# PAIP2020
 
 Welcome to this PAIP2020 Forum.
 
