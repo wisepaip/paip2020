@@ -6,10 +6,10 @@ Our main task is MSI-High classification in colorectal cancer.
 
 If you have any question or comment, please post a message here.
 
+
 **Recent inquiry
 1. Non-masked regions (= normal tissue) contain no MSI : Masked regions could include the MSI or not, however, non-masked regions are all normal tissues. Thus, no MSI information are in the non-masked regions.
-
-**2. Blank area  in the masked regions (= empty space = background) : Based on weak supervision, our task has been set to be more challenging than last year. Thus, the blank area has not been removed, participants have to deal with it if necessary. (you can refer the criteria of blank area in last challenge PAIP2019.)
+2. Blank area  in the masked regions (= empty space = background) : Based on weak supervision, our task has been set to be more challenging than last year. Thus, the blank area has not been removed, participants have to deal with it if necessary. (you can refer the criteria of blank area in last challenge PAIP2019.)
 
 ## `xml2mask.py` utility code released
 
