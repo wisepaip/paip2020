@@ -13,6 +13,11 @@ If you have any question or comment, please post a message here.
 
 3. All WSIs were scanned at 40X magnification and all cases are randomly selected irrespective of the participating institutions.
 
+4. Recently in regard to the submission of data use agreement, the file upload form provided by Google does not work properly.
+Our engineering team have checked and also contacted Google to report about this, but have not yet received a clear answer.
+Thus, if any participant are experiencing this problem, please send the data use agreement file (pdf format) that you have written to the organizer directly by e-mail. mailto : paip.challenge@gmail.com
+We apologize for any inconvenience.
+
 ## `xml2mask.py` utility code released
 
 This is a code example for preprocessing the tumor area annotations which are given in \*.xml format.
