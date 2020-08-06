@@ -18,6 +18,11 @@ Our engineering team have checked and also contacted Google to report about this
 Thus, if any participant are experiencing this problem, please send the data use agreement file (pdf format) that you have written to the organizer directly by e-mail. mailto : paip.challenge@gmail.com
 We apologize for any inconvenience.
 
+## `submission_support.py` utility code released
+
+This is an extremely simple code snippet for compressing image masks of final submissions.
+
+
 ## `xml2mask.py` utility code released
 
 This is a code example for preprocessing the tumor area annotations which are given in \*.xml format.
@@ -41,3 +46,4 @@ Please set the proper parent directories to generate \*.tif pixel masks from \*.
   | 2     | (6,250 \* 6,250) |
   | 3     | (1,562 \* 1,562) |
 - Please leave questions if you have some issues using this code example.
+
