@@ -99,7 +99,7 @@ def load_svs_shape(fn, level=2):
 
 
 if __name__ == '__main__':
-  for wsi_fn, xml_fn in tqdm(zip(wsi_fns, xml_fns), total=len(wsi_fn)):
+  for wsi_fn, xml_fn in tqdm(zip(wsi_fns, xml_fns), total=len(wsi_fns)):
     wsi_id = q.findall(wsi_fn)[0]
     xml_id = q.findall(xml_fn)[0]
     assert wsi_id == xml_id
